@@ -1,0 +1,1099 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>/Users/Jan/projects/neuro_interface/neuro_interface/neuro_interface.sch</source>
+    <date>2019 December 13, Friday 14:37:35</date>
+    <tool>Eeschema (5.0.1-3-g963ef8bb5)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>neuro_interface.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="SP1">
+      <value>skin_pad</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint_Probe" description="test point (alternative probe-style design)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DF38C12</tstamp>
+    </comp>
+    <comp ref="SP9">
+      <value>skin_pad</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint_Probe" description="test point (alternative probe-style design)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DF38E47</tstamp>
+    </comp>
+    <comp ref="SP17">
+      <value>skin_pad</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint_Probe" description="test point (alternative probe-style design)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DF38EC2</tstamp>
+    </comp>
+    <comp ref="SP25">
+      <value>skin_pad</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint_Probe" description="test point (alternative probe-style design)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DF38EC9</tstamp>
+    </comp>
+    <comp ref="SP2">
+      <value>skin_pad</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint_Probe" description="test point (alternative probe-style design)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DF3951C</tstamp>
+    </comp>
+    <comp ref="SP10">
+      <value>skin_pad</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint_Probe" description="test point (alternative probe-style design)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DF39523</tstamp>
+    </comp>
+    <comp ref="SP18">
+      <value>skin_pad</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint_Probe" description="test point (alternative probe-style design)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DF3952A</tstamp>
+    </comp>
+    <comp ref="SP26">
+      <value>skin_pad</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint_Probe" description="test point (alternative probe-style design)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DF39531</tstamp>
+    </comp>
+    <comp ref="SP3">
+      <value>skin_pad</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint_Probe" description="test point (alternative probe-style design)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DF39854</tstamp>
+    </comp>
+    <comp ref="SP11">
+      <value>skin_pad</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint_Probe" description="test point (alternative probe-style design)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DF3985B</tstamp>
+    </comp>
+    <comp ref="SP19">
+      <value>skin_pad</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint_Probe" description="test point (alternative probe-style design)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DF39862</tstamp>
+    </comp>
+    <comp ref="SP27">
+      <value>skin_pad</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint_Probe" description="test point (alternative probe-style design)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DF39869</tstamp>
+    </comp>
+    <comp ref="SP4">
+      <value>skin_pad</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint_Probe" description="test point (alternative probe-style design)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DF3988C</tstamp>
+    </comp>
+    <comp ref="SP12">
+      <value>skin_pad</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint_Probe" description="test point (alternative probe-style design)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DF39893</tstamp>
+    </comp>
+    <comp ref="SP20">
+      <value>skin_pad</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint_Probe" description="test point (alternative probe-style design)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DF3989A</tstamp>
+    </comp>
+    <comp ref="SP28">
+      <value>skin_pad</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint_Probe" description="test point (alternative probe-style design)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DF398A1</tstamp>
+    </comp>
+    <comp ref="SP5">
+      <value>skin_pad</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint_Probe" description="test point (alternative probe-style design)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DF39F64</tstamp>
+    </comp>
+    <comp ref="SP13">
+      <value>skin_pad</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint_Probe" description="test point (alternative probe-style design)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DF39F6B</tstamp>
+    </comp>
+    <comp ref="SP21">
+      <value>skin_pad</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint_Probe" description="test point (alternative probe-style design)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DF39F72</tstamp>
+    </comp>
+    <comp ref="SP29">
+      <value>skin_pad</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint_Probe" description="test point (alternative probe-style design)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DF39F79</tstamp>
+    </comp>
+    <comp ref="SP6">
+      <value>skin_pad</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint_Probe" description="test point (alternative probe-style design)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DF39F9C</tstamp>
+    </comp>
+    <comp ref="SP14">
+      <value>skin_pad</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint_Probe" description="test point (alternative probe-style design)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DF39FA3</tstamp>
+    </comp>
+    <comp ref="SP22">
+      <value>skin_pad</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint_Probe" description="test point (alternative probe-style design)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DF39FAA</tstamp>
+    </comp>
+    <comp ref="SP30">
+      <value>skin_pad</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint_Probe" description="test point (alternative probe-style design)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DF39FB1</tstamp>
+    </comp>
+    <comp ref="SP7">
+      <value>skin_pad</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint_Probe" description="test point (alternative probe-style design)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DF39FD4</tstamp>
+    </comp>
+    <comp ref="SP15">
+      <value>skin_pad</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint_Probe" description="test point (alternative probe-style design)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DF39FDB</tstamp>
+    </comp>
+    <comp ref="SP23">
+      <value>skin_pad</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint_Probe" description="test point (alternative probe-style design)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DF39FE2</tstamp>
+    </comp>
+    <comp ref="SP31">
+      <value>skin_pad</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint_Probe" description="test point (alternative probe-style design)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DF39FE9</tstamp>
+    </comp>
+    <comp ref="SP8">
+      <value>skin_pad</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint_Probe" description="test point (alternative probe-style design)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DF3A00C</tstamp>
+    </comp>
+    <comp ref="SP16">
+      <value>skin_pad</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint_Probe" description="test point (alternative probe-style design)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DF3A013</tstamp>
+    </comp>
+    <comp ref="SP24">
+      <value>skin_pad</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint_Probe" description="test point (alternative probe-style design)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DF3A01A</tstamp>
+    </comp>
+    <comp ref="SP32">
+      <value>skin_pad</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint_Probe" description="test point (alternative probe-style design)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DF3A021</tstamp>
+    </comp>
+    <comp ref="H4">
+      <value>MountingHole_Pad</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DF3DC2D</tstamp>
+    </comp>
+    <comp ref="H3">
+      <value>MountingHole_Pad</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DF3E030</tstamp>
+    </comp>
+    <comp ref="H2">
+      <value>MountingHole_Pad</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DF3E13F</tstamp>
+    </comp>
+    <comp ref="H1">
+      <value>MountingHole_Pad</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DF3E146</tstamp>
+    </comp>
+    <comp ref="J1">
+      <value>Conn_02x40_Counter_Clockwise</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_02x20_Counter_Clockwise" description="Generic connector, double row, 02x20, counter clockwise pin numbering scheme (similar to DIP packge numbering), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DF407E7</tstamp>
+    </comp>
+    <comp ref="R3">
+      <value>R</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E00DE06</tstamp>
+    </comp>
+    <comp ref="R4">
+      <value>R</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E00DE0D</tstamp>
+    </comp>
+    <comp ref="D3">
+      <value>LED</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E00DE16</tstamp>
+    </comp>
+    <comp ref="D4">
+      <value>LED</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E00DE1D</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>R</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E04B0CD</tstamp>
+    </comp>
+    <comp ref="R2">
+      <value>R</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E04B0D4</tstamp>
+    </comp>
+    <comp ref="D1">
+      <value>LED</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E04B0DC</tstamp>
+    </comp>
+    <comp ref="D2">
+      <value>LED</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E04B0E3</tstamp>
+    </comp>
+    <comp ref="SP33">
+      <value>skin_pad</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint_Probe" description="test point (alternative probe-style design)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E0A4191</tstamp>
+    </comp>
+    <comp ref="SP41">
+      <value>skin_pad</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint_Probe" description="test point (alternative probe-style design)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E0A4198</tstamp>
+    </comp>
+    <comp ref="SP49">
+      <value>skin_pad</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint_Probe" description="test point (alternative probe-style design)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E0A419F</tstamp>
+    </comp>
+    <comp ref="SP57">
+      <value>skin_pad</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint_Probe" description="test point (alternative probe-style design)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E0A41A6</tstamp>
+    </comp>
+    <comp ref="SP34">
+      <value>skin_pad</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint_Probe" description="test point (alternative probe-style design)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E0A41AD</tstamp>
+    </comp>
+    <comp ref="SP42">
+      <value>skin_pad</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint_Probe" description="test point (alternative probe-style design)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E0A41B4</tstamp>
+    </comp>
+    <comp ref="SP50">
+      <value>skin_pad</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint_Probe" description="test point (alternative probe-style design)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E0A41BB</tstamp>
+    </comp>
+    <comp ref="SP58">
+      <value>skin_pad</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint_Probe" description="test point (alternative probe-style design)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E0A41C2</tstamp>
+    </comp>
+    <comp ref="SP35">
+      <value>skin_pad</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint_Probe" description="test point (alternative probe-style design)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E0A41C9</tstamp>
+    </comp>
+    <comp ref="SP43">
+      <value>skin_pad</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint_Probe" description="test point (alternative probe-style design)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E0A41D0</tstamp>
+    </comp>
+    <comp ref="SP51">
+      <value>skin_pad</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint_Probe" description="test point (alternative probe-style design)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E0A41D7</tstamp>
+    </comp>
+    <comp ref="SP59">
+      <value>skin_pad</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint_Probe" description="test point (alternative probe-style design)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E0A41DE</tstamp>
+    </comp>
+    <comp ref="SP36">
+      <value>skin_pad</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint_Probe" description="test point (alternative probe-style design)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E0A41E5</tstamp>
+    </comp>
+    <comp ref="SP44">
+      <value>skin_pad</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint_Probe" description="test point (alternative probe-style design)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E0A41EC</tstamp>
+    </comp>
+    <comp ref="SP52">
+      <value>skin_pad</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint_Probe" description="test point (alternative probe-style design)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E0A41F3</tstamp>
+    </comp>
+    <comp ref="SP60">
+      <value>skin_pad</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint_Probe" description="test point (alternative probe-style design)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E0A41FA</tstamp>
+    </comp>
+    <comp ref="SP37">
+      <value>skin_pad</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint_Probe" description="test point (alternative probe-style design)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E0A4201</tstamp>
+    </comp>
+    <comp ref="SP45">
+      <value>skin_pad</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint_Probe" description="test point (alternative probe-style design)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E0A4208</tstamp>
+    </comp>
+    <comp ref="SP53">
+      <value>skin_pad</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint_Probe" description="test point (alternative probe-style design)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E0A420F</tstamp>
+    </comp>
+    <comp ref="SP61">
+      <value>skin_pad</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint_Probe" description="test point (alternative probe-style design)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E0A4216</tstamp>
+    </comp>
+    <comp ref="SP38">
+      <value>skin_pad</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint_Probe" description="test point (alternative probe-style design)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E0A421D</tstamp>
+    </comp>
+    <comp ref="SP46">
+      <value>skin_pad</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint_Probe" description="test point (alternative probe-style design)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E0A4224</tstamp>
+    </comp>
+    <comp ref="SP54">
+      <value>skin_pad</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint_Probe" description="test point (alternative probe-style design)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E0A422B</tstamp>
+    </comp>
+    <comp ref="SP62">
+      <value>skin_pad</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint_Probe" description="test point (alternative probe-style design)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E0A4232</tstamp>
+    </comp>
+    <comp ref="SP39">
+      <value>skin_pad</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint_Probe" description="test point (alternative probe-style design)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E0A4239</tstamp>
+    </comp>
+    <comp ref="SP47">
+      <value>skin_pad</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint_Probe" description="test point (alternative probe-style design)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E0A4240</tstamp>
+    </comp>
+    <comp ref="SP55">
+      <value>skin_pad</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint_Probe" description="test point (alternative probe-style design)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E0A4247</tstamp>
+    </comp>
+    <comp ref="SP63">
+      <value>skin_pad</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint_Probe" description="test point (alternative probe-style design)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E0A424E</tstamp>
+    </comp>
+    <comp ref="SP40">
+      <value>skin_pad</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint_Probe" description="test point (alternative probe-style design)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E0A4255</tstamp>
+    </comp>
+    <comp ref="SP48">
+      <value>skin_pad</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint_Probe" description="test point (alternative probe-style design)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E0A425C</tstamp>
+    </comp>
+    <comp ref="SP56">
+      <value>skin_pad</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint_Probe" description="test point (alternative probe-style design)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E0A4263</tstamp>
+    </comp>
+    <comp ref="SP64">
+      <value>skin_pad</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint_Probe" description="test point (alternative probe-style design)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E0A426A</tstamp>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_02x40_Counter_Clockwise</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_02x20_Counter_Clockwise" description="Generic connector, double row, 02x20, counter clockwise pin numbering scheme (similar to DIP packge numbering), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E0A4271</tstamp>
+    </comp>
+    <comp ref="R7">
+      <value>R</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E0A42F7</tstamp>
+    </comp>
+    <comp ref="R8">
+      <value>R</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E0A42FE</tstamp>
+    </comp>
+    <comp ref="D7">
+      <value>LED</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E0A4305</tstamp>
+    </comp>
+    <comp ref="D8">
+      <value>LED</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E0A430C</tstamp>
+    </comp>
+    <comp ref="R5">
+      <value>R</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E0A4320</tstamp>
+    </comp>
+    <comp ref="R6">
+      <value>R</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E0A4327</tstamp>
+    </comp>
+    <comp ref="D5">
+      <value>LED</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E0A432E</tstamp>
+    </comp>
+    <comp ref="D6">
+      <value>LED</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E0A4335</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="TestPoint_Probe">
+      <description>test point (alternative probe-style design)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Pin*</fp>
+        <fp>Test*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">TP</field>
+        <field name="Value">TestPoint_Probe</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_02x20_Counter_Clockwise">
+      <description>Generic connector, double row, 02x20, counter clockwise pin numbering scheme (similar to DIP packge numbering), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_02x20_Counter_Clockwise</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+        <pin num="11" name="Pin_11" type="passive"/>
+        <pin num="12" name="Pin_12" type="passive"/>
+        <pin num="13" name="Pin_13" type="passive"/>
+        <pin num="14" name="Pin_14" type="passive"/>
+        <pin num="15" name="Pin_15" type="passive"/>
+        <pin num="16" name="Pin_16" type="passive"/>
+        <pin num="17" name="Pin_17" type="passive"/>
+        <pin num="18" name="Pin_18" type="passive"/>
+        <pin num="19" name="Pin_19" type="passive"/>
+        <pin num="20" name="Pin_20" type="passive"/>
+        <pin num="21" name="Pin_21" type="passive"/>
+        <pin num="22" name="Pin_22" type="passive"/>
+        <pin num="23" name="Pin_23" type="passive"/>
+        <pin num="24" name="Pin_24" type="passive"/>
+        <pin num="25" name="Pin_25" type="passive"/>
+        <pin num="26" name="Pin_26" type="passive"/>
+        <pin num="27" name="Pin_27" type="passive"/>
+        <pin num="28" name="Pin_28" type="passive"/>
+        <pin num="29" name="Pin_29" type="passive"/>
+        <pin num="30" name="Pin_30" type="passive"/>
+        <pin num="31" name="Pin_31" type="passive"/>
+        <pin num="32" name="Pin_32" type="passive"/>
+        <pin num="33" name="Pin_33" type="passive"/>
+        <pin num="34" name="Pin_34" type="passive"/>
+        <pin num="35" name="Pin_35" type="passive"/>
+        <pin num="36" name="Pin_36" type="passive"/>
+        <pin num="37" name="Pin_37" type="passive"/>
+        <pin num="38" name="Pin_38" type="passive"/>
+        <pin num="39" name="Pin_39" type="passive"/>
+        <pin num="40" name="Pin_40" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole_Pad">
+      <description>Mounting Hole with connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*Pad*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole_Pad</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="input"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>/Users/Jan/Downloads/kicad-symbols/Connector.lib</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>/Users/Jan/Downloads/kicad-symbols/Connector_Generic.lib</uri>
+    </library>
+    <library logical="Device">
+      <uri>/Users/Jan/Downloads/kicad-symbols/Device.lib</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>/Users/Jan/Downloads/kicad-symbols/Mechanical.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="Net-(J1-Pad25)">
+      <node ref="SP17" pin="1"/>
+      <node ref="J1" pin="25"/>
+    </net>
+    <net code="2" name="Net-(J1-Pad33)">
+      <node ref="SP25" pin="1"/>
+      <node ref="J1" pin="33"/>
+    </net>
+    <net code="3" name="Net-(J1-Pad7)">
+      <node ref="SP2" pin="1"/>
+      <node ref="J1" pin="7"/>
+    </net>
+    <net code="4" name="Net-(J1-Pad15)">
+      <node ref="SP10" pin="1"/>
+      <node ref="J1" pin="15"/>
+    </net>
+    <net code="5" name="Net-(J1-Pad6)">
+      <node ref="J1" pin="6"/>
+      <node ref="SP3" pin="1"/>
+    </net>
+    <net code="6" name="Net-(J1-Pad14)">
+      <node ref="J1" pin="14"/>
+      <node ref="SP11" pin="1"/>
+    </net>
+    <net code="7" name="Net-(J1-Pad27)">
+      <node ref="J1" pin="27"/>
+      <node ref="SP19" pin="1"/>
+    </net>
+    <net code="8" name="Net-(J1-Pad35)">
+      <node ref="J1" pin="35"/>
+      <node ref="SP27" pin="1"/>
+    </net>
+    <net code="9" name="Net-(J1-Pad4)">
+      <node ref="J1" pin="4"/>
+      <node ref="SP5" pin="1"/>
+    </net>
+    <net code="10" name="Net-(J1-Pad12)">
+      <node ref="J1" pin="12"/>
+      <node ref="SP13" pin="1"/>
+    </net>
+    <net code="11" name="Net-(J1-Pad29)">
+      <node ref="J1" pin="29"/>
+      <node ref="SP21" pin="1"/>
+    </net>
+    <net code="12" name="Net-(J1-Pad37)">
+      <node ref="SP29" pin="1"/>
+      <node ref="J1" pin="37"/>
+    </net>
+    <net code="13" name="Net-(J1-Pad2)">
+      <node ref="J1" pin="2"/>
+      <node ref="SP7" pin="1"/>
+    </net>
+    <net code="14" name="Net-(J1-Pad10)">
+      <node ref="SP15" pin="1"/>
+      <node ref="J1" pin="10"/>
+    </net>
+    <net code="15" name="Net-(J1-Pad31)">
+      <node ref="J1" pin="31"/>
+      <node ref="SP23" pin="1"/>
+    </net>
+    <net code="16" name="Net-(J1-Pad32)">
+      <node ref="J1" pin="32"/>
+      <node ref="SP24" pin="1"/>
+    </net>
+    <net code="17" name="GND">
+      <node ref="J2" pin="17"/>
+      <node ref="J2" pin="20"/>
+      <node ref="D5" pin="1"/>
+      <node ref="D6" pin="1"/>
+      <node ref="D2" pin="1"/>
+      <node ref="J1" pin="24"/>
+      <node ref="J2" pin="21"/>
+      <node ref="J2" pin="24"/>
+      <node ref="J1" pin="21"/>
+      <node ref="J1" pin="20"/>
+      <node ref="J1" pin="17"/>
+      <node ref="D1" pin="1"/>
+      <node ref="D3" pin="1"/>
+      <node ref="H1" pin="1"/>
+      <node ref="H2" pin="1"/>
+      <node ref="H3" pin="1"/>
+      <node ref="H4" pin="1"/>
+      <node ref="D8" pin="1"/>
+      <node ref="D7" pin="1"/>
+      <node ref="D4" pin="1"/>
+    </net>
+    <net code="18" name="Net-(J1-Pad1)">
+      <node ref="SP8" pin="1"/>
+      <node ref="J1" pin="1"/>
+    </net>
+    <net code="19" name="Net-(J1-Pad11)">
+      <node ref="SP14" pin="1"/>
+      <node ref="J1" pin="11"/>
+    </net>
+    <net code="20" name="Net-(J1-Pad13)">
+      <node ref="SP12" pin="1"/>
+      <node ref="J1" pin="13"/>
+    </net>
+    <net code="21" name="Net-(J1-Pad16)">
+      <node ref="J1" pin="16"/>
+      <node ref="SP9" pin="1"/>
+    </net>
+    <net code="22" name="Net-(J1-Pad26)">
+      <node ref="SP18" pin="1"/>
+      <node ref="J1" pin="26"/>
+    </net>
+    <net code="23" name="Net-(J1-Pad28)">
+      <node ref="SP20" pin="1"/>
+      <node ref="J1" pin="28"/>
+    </net>
+    <net code="24" name="Net-(J1-Pad3)">
+      <node ref="SP6" pin="1"/>
+      <node ref="J1" pin="3"/>
+    </net>
+    <net code="25" name="Net-(J1-Pad30)">
+      <node ref="J1" pin="30"/>
+      <node ref="SP22" pin="1"/>
+    </net>
+    <net code="26" name="Net-(J1-Pad34)">
+      <node ref="SP26" pin="1"/>
+      <node ref="J1" pin="34"/>
+    </net>
+    <net code="27" name="Net-(J1-Pad36)">
+      <node ref="SP28" pin="1"/>
+      <node ref="J1" pin="36"/>
+    </net>
+    <net code="28" name="Net-(J1-Pad38)">
+      <node ref="SP30" pin="1"/>
+      <node ref="J1" pin="38"/>
+    </net>
+    <net code="29" name="Net-(J1-Pad39)">
+      <node ref="SP31" pin="1"/>
+      <node ref="J1" pin="39"/>
+    </net>
+    <net code="30" name="Net-(J1-Pad40)">
+      <node ref="J1" pin="40"/>
+      <node ref="SP32" pin="1"/>
+    </net>
+    <net code="31" name="Net-(J1-Pad5)">
+      <node ref="J1" pin="5"/>
+      <node ref="SP4" pin="1"/>
+    </net>
+    <net code="32" name="Net-(J1-Pad8)">
+      <node ref="J1" pin="8"/>
+      <node ref="SP1" pin="1"/>
+    </net>
+    <net code="33" name="Net-(J1-Pad9)">
+      <node ref="SP16" pin="1"/>
+      <node ref="J1" pin="9"/>
+    </net>
+    <net code="34" name="Net-(J1-Pad19)">
+      <node ref="R3" pin="2"/>
+      <node ref="J1" pin="19"/>
+    </net>
+    <net code="35" name="Net-(J1-Pad18)">
+      <node ref="R4" pin="2"/>
+      <node ref="J1" pin="18"/>
+    </net>
+    <net code="36" name="Net-(D3-Pad2)">
+      <node ref="D3" pin="2"/>
+      <node ref="R3" pin="1"/>
+    </net>
+    <net code="37" name="Net-(D4-Pad2)">
+      <node ref="D4" pin="2"/>
+      <node ref="R4" pin="1"/>
+    </net>
+    <net code="38" name="Net-(J1-Pad23)">
+      <node ref="R1" pin="2"/>
+      <node ref="J1" pin="23"/>
+    </net>
+    <net code="39" name="Net-(J1-Pad22)">
+      <node ref="J1" pin="22"/>
+      <node ref="R2" pin="2"/>
+    </net>
+    <net code="40" name="Net-(D1-Pad2)">
+      <node ref="R1" pin="1"/>
+      <node ref="D1" pin="2"/>
+    </net>
+    <net code="41" name="Net-(D2-Pad2)">
+      <node ref="R2" pin="1"/>
+      <node ref="D2" pin="2"/>
+    </net>
+    <net code="42" name="Net-(J2-Pad25)">
+      <node ref="SP49" pin="1"/>
+      <node ref="J2" pin="25"/>
+    </net>
+    <net code="43" name="Net-(J2-Pad33)">
+      <node ref="J2" pin="33"/>
+      <node ref="SP57" pin="1"/>
+    </net>
+    <net code="44" name="Net-(J2-Pad7)">
+      <node ref="J2" pin="7"/>
+      <node ref="SP34" pin="1"/>
+    </net>
+    <net code="45" name="Net-(J2-Pad15)">
+      <node ref="SP42" pin="1"/>
+      <node ref="J2" pin="15"/>
+    </net>
+    <net code="46" name="Net-(J2-Pad6)">
+      <node ref="SP35" pin="1"/>
+      <node ref="J2" pin="6"/>
+    </net>
+    <net code="47" name="Net-(J2-Pad14)">
+      <node ref="SP43" pin="1"/>
+      <node ref="J2" pin="14"/>
+    </net>
+    <net code="48" name="Net-(J2-Pad27)">
+      <node ref="SP51" pin="1"/>
+      <node ref="J2" pin="27"/>
+    </net>
+    <net code="49" name="Net-(J2-Pad35)">
+      <node ref="SP59" pin="1"/>
+      <node ref="J2" pin="35"/>
+    </net>
+    <net code="50" name="Net-(J2-Pad4)">
+      <node ref="J2" pin="4"/>
+      <node ref="SP37" pin="1"/>
+    </net>
+    <net code="51" name="Net-(J2-Pad12)">
+      <node ref="SP45" pin="1"/>
+      <node ref="J2" pin="12"/>
+    </net>
+    <net code="52" name="Net-(J2-Pad29)">
+      <node ref="SP53" pin="1"/>
+      <node ref="J2" pin="29"/>
+    </net>
+    <net code="53" name="Net-(J2-Pad37)">
+      <node ref="SP61" pin="1"/>
+      <node ref="J2" pin="37"/>
+    </net>
+    <net code="54" name="Net-(J2-Pad2)">
+      <node ref="SP39" pin="1"/>
+      <node ref="J2" pin="2"/>
+    </net>
+    <net code="55" name="Net-(J2-Pad10)">
+      <node ref="J2" pin="10"/>
+      <node ref="SP47" pin="1"/>
+    </net>
+    <net code="56" name="Net-(J2-Pad31)">
+      <node ref="SP55" pin="1"/>
+      <node ref="J2" pin="31"/>
+    </net>
+    <net code="57" name="Net-(J2-Pad32)">
+      <node ref="J2" pin="32"/>
+      <node ref="SP56" pin="1"/>
+    </net>
+    <net code="58" name="Net-(J2-Pad1)">
+      <node ref="J2" pin="1"/>
+      <node ref="SP40" pin="1"/>
+    </net>
+    <net code="59" name="Net-(J2-Pad11)">
+      <node ref="SP46" pin="1"/>
+      <node ref="J2" pin="11"/>
+    </net>
+    <net code="60" name="Net-(J2-Pad13)">
+      <node ref="SP44" pin="1"/>
+      <node ref="J2" pin="13"/>
+    </net>
+    <net code="61" name="Net-(J2-Pad16)">
+      <node ref="J2" pin="16"/>
+      <node ref="SP41" pin="1"/>
+    </net>
+    <net code="62" name="Net-(J2-Pad26)">
+      <node ref="J2" pin="26"/>
+      <node ref="SP50" pin="1"/>
+    </net>
+    <net code="63" name="Net-(J2-Pad28)">
+      <node ref="SP52" pin="1"/>
+      <node ref="J2" pin="28"/>
+    </net>
+    <net code="64" name="Net-(J2-Pad3)">
+      <node ref="SP38" pin="1"/>
+      <node ref="J2" pin="3"/>
+    </net>
+    <net code="65" name="Net-(J2-Pad30)">
+      <node ref="J2" pin="30"/>
+      <node ref="SP54" pin="1"/>
+    </net>
+    <net code="66" name="Net-(J2-Pad34)">
+      <node ref="J2" pin="34"/>
+      <node ref="SP58" pin="1"/>
+    </net>
+    <net code="67" name="Net-(J2-Pad36)">
+      <node ref="J2" pin="36"/>
+      <node ref="SP60" pin="1"/>
+    </net>
+    <net code="68" name="Net-(J2-Pad38)">
+      <node ref="J2" pin="38"/>
+      <node ref="SP62" pin="1"/>
+    </net>
+    <net code="69" name="Net-(J2-Pad39)">
+      <node ref="J2" pin="39"/>
+      <node ref="SP63" pin="1"/>
+    </net>
+    <net code="70" name="Net-(J2-Pad40)">
+      <node ref="J2" pin="40"/>
+      <node ref="SP64" pin="1"/>
+    </net>
+    <net code="71" name="Net-(J2-Pad5)">
+      <node ref="J2" pin="5"/>
+      <node ref="SP36" pin="1"/>
+    </net>
+    <net code="72" name="Net-(J2-Pad8)">
+      <node ref="J2" pin="8"/>
+      <node ref="SP33" pin="1"/>
+    </net>
+    <net code="73" name="Net-(J2-Pad9)">
+      <node ref="J2" pin="9"/>
+      <node ref="SP48" pin="1"/>
+    </net>
+    <net code="74" name="Net-(J2-Pad19)">
+      <node ref="R7" pin="2"/>
+      <node ref="J2" pin="19"/>
+    </net>
+    <net code="75" name="Net-(J2-Pad18)">
+      <node ref="J2" pin="18"/>
+      <node ref="R8" pin="2"/>
+    </net>
+    <net code="76" name="Net-(D7-Pad2)">
+      <node ref="D7" pin="2"/>
+      <node ref="R7" pin="1"/>
+    </net>
+    <net code="77" name="Net-(D8-Pad2)">
+      <node ref="D8" pin="2"/>
+      <node ref="R8" pin="1"/>
+    </net>
+    <net code="78" name="Net-(J2-Pad23)">
+      <node ref="R5" pin="2"/>
+      <node ref="J2" pin="23"/>
+    </net>
+    <net code="79" name="Net-(J2-Pad22)">
+      <node ref="R6" pin="2"/>
+      <node ref="J2" pin="22"/>
+    </net>
+    <net code="80" name="Net-(D5-Pad2)">
+      <node ref="R5" pin="1"/>
+      <node ref="D5" pin="2"/>
+    </net>
+    <net code="81" name="Net-(D6-Pad2)">
+      <node ref="R6" pin="1"/>
+      <node ref="D6" pin="2"/>
+    </net>
+  </nets>
+</export>
