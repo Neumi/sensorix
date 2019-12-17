@@ -2562,14 +2562,14 @@
   )
 
   (module Symbols:OSHW-Symbol_6.7x6mm_SilkScreen (layer B.Cu) (tedit 0) (tstamp 5DF422CF)
-    (at 99 126.5)
+    (at 120.18335 106.042335 180)
     (descr "Open Source Hardware Symbol")
     (tags "Logo Symbol OSHW")
     (attr virtual)
-    (fp_text reference REF*** (at 0 0) (layer B.SilkS) hide
+    (fp_text reference REF*** (at 0 0 180) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
-    (fp_text value OSHW-Symbol_6.7x6mm_SilkScreen (at 0.75 0) (layer B.Fab) hide
+    (fp_text value OSHW-Symbol_6.7x6mm_SilkScreen (at 0.75 0 180) (layer B.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_poly (pts (xy 0.555814 2.531069) (xy 0.639635 2.086445) (xy 0.94892 1.958947) (xy 1.258206 1.831449)
@@ -2660,14 +2660,14 @@
   )
 
   (module Symbols:CE-Logo_11.2x8mm_SilkScreen (layer B.Cu) (tedit 0) (tstamp 5DF498D2)
-    (at 109.5 125.5)
+    (at 109.68335 107.042335 180)
     (descr "CE marking")
     (tags "Logo CE certification")
     (attr virtual)
-    (fp_text reference REF*** (at 0 0) (layer B.SilkS) hide
+    (fp_text reference REF*** (at 0 0 180) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
-    (fp_text value CE-Logo_11.2x8mm_SilkScreen (at 0.75 0) (layer B.Fab) hide
+    (fp_text value CE-Logo_11.2x8mm_SilkScreen (at 0.75 0 180) (layer B.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_poly (pts (xy -1.404663 3.993183) (xy -1.319278 3.990984) (xy -1.25753 3.987051) (xy -1.230586 3.982891)
@@ -2729,14 +2729,14 @@
   )
 
   (module Symbols:WEEE-Logo_4.2x6mm_SilkScreen (layer B.Cu) (tedit 0) (tstamp 5DF4A202)
-    (at 119.5 125.5)
+    (at 99.68335 107.042335 180)
     (descr "Waste Electrical and Electronic Equipment Directive")
     (tags "Logo WEEE")
     (attr virtual)
-    (fp_text reference REF*** (at 0 0) (layer B.SilkS) hide
+    (fp_text reference REF*** (at 0 0 180) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
-    (fp_text value WEEE-Logo_4.2x6mm_SilkScreen (at 0.75 0) (layer B.Fab) hide
+    (fp_text value WEEE-Logo_4.2x6mm_SilkScreen (at 0.75 0 180) (layer B.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_poly (pts (xy 1.747822 -3.017822) (xy -1.772971 -3.017822) (xy -1.772971 -2.150198) (xy 1.747822 -2.150198)
@@ -2873,11 +2873,11 @@
   )
 
   (module neuro_interface:logo (layer B.Cu) (tedit 0) (tstamp 5DF4B2FD)
-    (at 110 109)
-    (fp_text reference G*** (at 0 0) (layer B.SilkS) hide
+    (at 109.18335 89.542335 180)
+    (fp_text reference G*** (at 0 0 180) (layer B.SilkS) hide
       (effects (font (size 1.524 1.524) (thickness 0.3)) (justify mirror))
     )
-    (fp_text value LOGO (at 0.75 0) (layer B.SilkS) hide
+    (fp_text value LOGO (at 0.75 0 180) (layer B.SilkS) hide
       (effects (font (size 1.524 1.524) (thickness 0.3)) (justify mirror))
     )
     (fp_poly (pts (xy 8.858826 3.29233) (xy 8.97908 3.179847) (xy 9.029995 2.999402) (xy 9.018226 2.74449)
@@ -3179,10 +3179,10 @@
       (xy 11.487147 4.67424) (xy 11.737696 4.706276) (xy 12.022845 4.697354)) (layer B.SilkS) (width 0.01))
   )
 
-  (gr_text "v.0.1 2019.12.13" (at 110 100 180) (layer B.SilkS)
+  (gr_text "v.0.1 2019.12.13" (at 109.18335 98.542335) (layer B.SilkS)
     (effects (font (size 1 1) (thickness 0.25)) (justify mirror))
   )
-  (gr_text github.com/neumi/sensorix (at 109.5 102.5 180) (layer B.SilkS)
+  (gr_text github.com/neumi/sensorix (at 109.68335 96.042335) (layer B.SilkS)
     (effects (font (size 1.5 1.5) (thickness 0.3)) (justify mirror))
   )
   (target plus (at 70 60) (size 5) (width 0.15) (layer Edge.Cuts))

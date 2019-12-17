@@ -1,0 +1,416 @@
+EESchema Schematic File Version 4
+LIBS:HV57708_driver-cache
+EELAYER 26 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L power:GND #PWR?
+U 1 1 5DF502ED
+P 1125 4175
+F 0 "#PWR?" H 1125 3925 50  0001 C CNN
+F 1 "GND" H 1130 4002 50  0000 C CNN
+F 2 "" H 1125 4175 50  0001 C CNN
+F 3 "" H 1125 4175 50  0001 C CNN
+	1    1125 4175
+	1    0    0    -1  
+$EndComp
+$Comp
+L MCU_Module:Arduino_Nano_v3.x A?
+U 1 1 5DF506D2
+P 5325 1400
+F 0 "A?" V 5279 360 50  0000 R CNN
+F 1 "Arduino_Nano_v3.x" V 5370 360 50  0000 R CNN
+F 2 "Module:Arduino_Nano" H 5325 1400 50  0001 C CIN
+F 3 "http://www.mouser.com/pdfdocs/Gravitech_Arduino_Nano3_0.pdf" H 5325 1400 50  0001 C CNN
+	1    5325 1400
+	0    1    1    0   
+$EndComp
+$Comp
+L Connector_Generic:Conn_02x20_Counter_Clockwise J?
+U 1 1 5DF508EB
+P 3950 5225
+F 0 "J?" H 4000 6342 50  0000 C CNN
+F 1 "Conn_02x20_Counter_Clockwise" H 4000 6251 50  0000 C CNN
+F 2 "" H 3950 5225 50  0001 C CNN
+F 3 "~" H 3950 5225 50  0001 C CNN
+	1    3950 5225
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2425 4000 2425 5825
+Wire Wire Line
+	2425 5825 3750 5825
+Wire Wire Line
+	2525 4000 2525 5725
+Wire Wire Line
+	2525 5725 3750 5725
+Wire Wire Line
+	2625 4000 2625 5625
+Wire Wire Line
+	2625 5625 3750 5625
+Wire Wire Line
+	2725 4000 2725 5525
+Wire Wire Line
+	2725 5525 3750 5525
+Wire Wire Line
+	2825 4000 2825 5425
+Wire Wire Line
+	2825 5425 3750 5425
+Wire Wire Line
+	2925 4000 2925 5325
+Wire Wire Line
+	2925 5325 3750 5325
+Wire Wire Line
+	3025 4000 3025 5225
+Wire Wire Line
+	3025 5225 3750 5225
+Wire Wire Line
+	3125 4000 3125 5125
+Wire Wire Line
+	3125 5125 3750 5125
+Wire Wire Line
+	3225 4000 3225 5025
+Wire Wire Line
+	3225 5025 3750 5025
+Wire Wire Line
+	3325 4000 3325 4925
+Wire Wire Line
+	3325 4925 3750 4925
+Wire Wire Line
+	3425 4000 3425 4825
+Wire Wire Line
+	3425 4825 3750 4825
+Wire Wire Line
+	3525 4000 3525 4725
+Wire Wire Line
+	3525 4725 3750 4725
+Wire Wire Line
+	3625 4000 3625 4625
+Wire Wire Line
+	3625 4625 3750 4625
+Wire Wire Line
+	3725 4000 3725 4525
+Wire Wire Line
+	3725 4525 3750 4525
+Wire Wire Line
+	3825 4000 3825 4425
+Wire Wire Line
+	3825 4425 3750 4425
+Wire Wire Line
+	3925 4000 3925 4250
+Wire Wire Line
+	3925 4250 3750 4250
+Wire Wire Line
+	3750 4250 3750 4325
+Wire Wire Line
+	4025 4000 4025 4225
+Wire Wire Line
+	4025 4225 4250 4225
+Wire Wire Line
+	4250 4225 4250 4325
+Wire Wire Line
+	4125 4000 4125 4425
+Wire Wire Line
+	4125 4425 4250 4425
+Wire Wire Line
+	4225 4000 4225 4150
+Wire Wire Line
+	4225 4150 4300 4150
+Wire Wire Line
+	4300 4150 4300 4525
+Wire Wire Line
+	4300 4525 4250 4525
+Wire Wire Line
+	4325 4000 4325 4625
+Wire Wire Line
+	4325 4625 4250 4625
+Wire Wire Line
+	4425 4000 4425 4725
+Wire Wire Line
+	4425 4725 4250 4725
+Wire Wire Line
+	4525 4000 4525 4825
+Wire Wire Line
+	4525 4825 4250 4825
+Wire Wire Line
+	4625 4000 4625 4925
+Wire Wire Line
+	4625 4925 4250 4925
+Wire Wire Line
+	4725 4000 4725 5025
+Wire Wire Line
+	4725 5025 4250 5025
+Wire Wire Line
+	4825 4000 4825 5125
+Wire Wire Line
+	4825 5125 4250 5125
+Wire Wire Line
+	4925 4000 4925 5225
+Wire Wire Line
+	4925 5225 4250 5225
+Wire Wire Line
+	5025 4000 5025 5325
+Wire Wire Line
+	5025 5325 4250 5325
+Wire Wire Line
+	5125 4000 5125 5425
+Wire Wire Line
+	5125 5425 4250 5425
+Wire Wire Line
+	5225 4000 5225 5525
+Wire Wire Line
+	5225 5525 4250 5525
+Wire Wire Line
+	5325 4000 5325 5625
+Wire Wire Line
+	5325 5625 4250 5625
+Wire Wire Line
+	4250 5725 5425 5725
+Wire Wire Line
+	5425 5725 5425 4000
+Wire Wire Line
+	5525 4000 5525 5825
+Wire Wire Line
+	5525 5825 4250 5825
+$Comp
+L Connector_Generic:Conn_02x20_Counter_Clockwise J?
+U 1 1 5DF5CA66
+P 7150 5225
+F 0 "J?" H 7200 6342 50  0000 C CNN
+F 1 "Conn_02x20_Counter_Clockwise" H 7200 6251 50  0000 C CNN
+F 2 "" H 7150 5225 50  0001 C CNN
+F 3 "~" H 7150 5225 50  0001 C CNN
+	1    7150 5225
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5625 4000 5625 5825
+Wire Wire Line
+	5625 5825 6950 5825
+Wire Wire Line
+	5725 4000 5725 5725
+Wire Wire Line
+	5725 5725 6950 5725
+Wire Wire Line
+	5825 4000 5825 5625
+Wire Wire Line
+	5825 5625 6950 5625
+Wire Wire Line
+	5925 4000 5925 5525
+Wire Wire Line
+	5925 5525 6950 5525
+Wire Wire Line
+	6025 4000 6025 5425
+Wire Wire Line
+	6025 5425 6950 5425
+Wire Wire Line
+	6125 4000 6125 5325
+Wire Wire Line
+	6125 5325 6950 5325
+Wire Wire Line
+	6225 4000 6225 5225
+Wire Wire Line
+	6225 5225 6950 5225
+Wire Wire Line
+	6325 4000 6325 5125
+Wire Wire Line
+	6325 5125 6950 5125
+Wire Wire Line
+	6425 4000 6425 5025
+Wire Wire Line
+	6425 5025 6950 5025
+Wire Wire Line
+	6525 4000 6525 4925
+Wire Wire Line
+	6525 4925 6950 4925
+Wire Wire Line
+	6625 4000 6625 4825
+Wire Wire Line
+	6625 4825 6950 4825
+Wire Wire Line
+	6725 4000 6725 4725
+Wire Wire Line
+	6725 4725 6950 4725
+Wire Wire Line
+	6825 4000 6825 4625
+Wire Wire Line
+	6825 4625 6950 4625
+Wire Wire Line
+	6925 4000 6925 4525
+Wire Wire Line
+	6925 4525 6950 4525
+Wire Wire Line
+	7025 4000 7025 4425
+Wire Wire Line
+	7025 4425 6950 4425
+Wire Wire Line
+	7125 4000 7125 4250
+Wire Wire Line
+	7125 4250 6950 4250
+Wire Wire Line
+	6950 4250 6950 4325
+Wire Wire Line
+	7225 4000 7225 4225
+Wire Wire Line
+	7225 4225 7450 4225
+Wire Wire Line
+	7450 4225 7450 4325
+Wire Wire Line
+	7325 4000 7325 4425
+Wire Wire Line
+	7325 4425 7450 4425
+Wire Wire Line
+	7500 4525 7450 4525
+Wire Wire Line
+	7525 4000 7525 4625
+Wire Wire Line
+	7525 4625 7450 4625
+Wire Wire Line
+	7625 4000 7625 4725
+Wire Wire Line
+	7625 4725 7450 4725
+Wire Wire Line
+	7725 4000 7725 4825
+Wire Wire Line
+	7725 4825 7450 4825
+Wire Wire Line
+	7825 4925 7450 4925
+Wire Wire Line
+	7925 4000 7925 5025
+Wire Wire Line
+	7925 5025 7450 5025
+Wire Wire Line
+	8025 4000 8025 5125
+Wire Wire Line
+	8025 5125 7450 5125
+Wire Wire Line
+	8125 4000 8125 5225
+Wire Wire Line
+	8125 5225 7450 5225
+Wire Wire Line
+	8225 4000 8225 5325
+Wire Wire Line
+	8225 5325 7450 5325
+Wire Wire Line
+	8325 4000 8325 5425
+Wire Wire Line
+	8325 5425 7450 5425
+Wire Wire Line
+	8425 4000 8425 5525
+Wire Wire Line
+	8425 5525 7450 5525
+Wire Wire Line
+	8525 4000 8525 5625
+Wire Wire Line
+	8525 5625 7450 5625
+Wire Wire Line
+	7450 5725 8625 5725
+Wire Wire Line
+	8625 5725 8625 4000
+Wire Wire Line
+	8725 4000 8725 5825
+Wire Wire Line
+	8725 5825 7450 5825
+Wire Wire Line
+	7825 4000 7825 4925
+$Comp
+L HV57708PG-G:HV57708PG-G U?
+U 1 1 5DF72B9D
+P 5025 3100
+F 0 "U?" V 4979 -932 50  0000 R CNN
+F 1 "HV57708PG-G" V 5070 -932 50  0000 R CNN
+F 2 "QFP80P2390X1790X340-80N" H 5025 3100 50  0001 L BNN
+F 3 "64-CHANNEL, PUSH-PULL, 80V, 32MHz80 PQFP 20x14x3.4mm TRAY" H 5025 3100 50  0001 L BNN
+F 4 "HV57708PG-G" H 5025 3100 50  0001 L BNN "Field4"
+F 5 "Unavailable" H 5025 3100 50  0001 L BNN "Field5"
+F 6 "None" H 5025 3100 50  0001 L BNN "Field6"
+F 7 "Microchip" H 5025 3100 50  0001 L BNN "Field7"
+F 8 "PQFP-80 Microchip" H 5025 3100 50  0001 L BNN "Field8"
+	1    5025 3100
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	1125 4000 1125 4175
+Wire Wire Line
+	7425 4000 7425 4175
+Wire Wire Line
+	7425 4175 7500 4175
+Wire Wire Line
+	7500 4175 7500 4525
+$Comp
+L power:VPP #PWR?
+U 1 1 5DF95D39
+P 1425 1925
+F 0 "#PWR?" H 1425 1775 50  0001 C CNN
+F 1 "VPP" H 1440 2098 50  0000 C CNN
+F 2 "" H 1425 1925 50  0001 C CNN
+F 3 "" H 1425 1925 50  0001 C CNN
+	1    1425 1925
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1425 1925 1425 2200
+$Comp
+L power:VDD #PWR?
+U 1 1 5DF9988E
+P 9175 4000
+F 0 "#PWR?" H 9175 3850 50  0001 C CNN
+F 1 "VDD" H 9192 4173 50  0000 C CNN
+F 2 "" H 9175 4000 50  0001 C CNN
+F 3 "" H 9175 4000 50  0001 C CNN
+	1    9175 4000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8925 4000 8925 4125
+Wire Wire Line
+	8925 4125 9175 4125
+Wire Wire Line
+	9175 4125 9175 4000
+$Comp
+L power:VDD #PWR?
+U 1 1 5DFA8C65
+P 6700 1500
+F 0 "#PWR?" H 6700 1350 50  0001 C CNN
+F 1 "VDD" H 6717 1673 50  0000 C CNN
+F 2 "" H 6700 1500 50  0001 C CNN
+F 3 "" H 6700 1500 50  0001 C CNN
+	1    6700 1500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6325 1600 6700 1600
+Wire Wire Line
+	6700 1600 6700 1500
+$Comp
+L power:GND #PWR?
+U 1 1 5DFB0856
+P 4150 1700
+F 0 "#PWR?" H 4150 1450 50  0001 C CNN
+F 1 "GND" H 4155 1527 50  0000 C CNN
+F 2 "" H 4150 1700 50  0001 C CNN
+F 3 "" H 4150 1700 50  0001 C CNN
+	1    4150 1700
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4150 1700 4150 1500
+Wire Wire Line
+	4150 1500 4325 1500
+Wire Wire Line
+	4325 1400 4150 1400
+Wire Wire Line
+	4150 1400 4150 1500
+Connection ~ 4150 1500
+$EndSCHEMATC
